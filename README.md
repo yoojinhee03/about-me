@@ -4,7 +4,7 @@
 -->
 <a href="https://github.com/yoojinhee03">
 <img style="width: 100%; height: 100%; object-fit: cover;"
-src="https://avatars0.githubusercontent.com/u/66635648" alt="drawing" width="100" />
+src="https://avatars0.githubusercontent.com/u/66635648" alt="drawing" width="80" />
 </a>
 
 <!--
